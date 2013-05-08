@@ -1,0 +1,4 @@
+The java file preprocess the binary file to print the 100 numbers at the end. 
+The output of that file will be used as the results array in the ruby file. 
+You need to execute the java compiled file with the option -Xmx6g or 
+an exception will be raised because of the heap size.
